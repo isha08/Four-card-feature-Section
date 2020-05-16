@@ -1,0 +1,90 @@
+
+body{
+  margin:0;
+  padding-top:10px;
+
+  text-align: center;
+  background-color:#f7f7f7
+
+  }
+.Team-builder{
+margin-top: 30px;
+padding-bottom: 25px;
+padding-right: 25px;
+padding-left:25px;
+background-color:white;
+width: 250px;
+height:200px;
+position:relative;
+left:500px;
+box-shadow: 8px 5px 3px  #dddddd;
+border-top:3px solid red;
+border-radius:5px;
+}
+
+.supervisor{
+padding-right: 25px;
+padding-bottom: 25px;
+padding-left:25px;
+background-color:white;
+border-radius:5px;
+border-top:3px solid #4cbbb9;
+width: 250px;
+height:200px;
+position:absolute;
+left:180px;
+top: 350px;
+box-shadow: 8px 5px 3px  #dddddd;
+}
+.karma{
+  padding-right: 25px;
+  padding-bottom: 25px;
+  padding-left:25px;
+  background-color:white;
+  border-radius:5px;
+  width: 250px;
+  height:200px;
+  border-top:3px solid orange;
+  position:relative;
+  left:500px;
+  bottom:190px;
+ box-shadow: 8px 5px 3px  #dddddd;
+
+}
+.calculator{
+  padding-right: 25px;
+  padding-bottom: 25px;
+  padding-left:25px;
+  background-color:white;
+  border-radius:5px;
+  border-top:3px solid blue;
+  width: 250px;
+  height:200px;
+  position:relative;
+  left:820px;
+  bottom: 120px;
+  box-shadow: 8px 5px 3px  #dddddd;
+
+}
+.text{
+  color:grey;
+  text-align:left;
+
+  line-height:2;
+}
+.intro{
+  color:grey;
+  width:35%;
+  margin:auto;
+  padding:20px 0;
+}
+.top{
+font-family: 'Heebo', sans-serif;
+}
+
+.middle{
+font-family: 'Raleway', sans-serif;
+}
+.team-img{
+  float: right;
+}
